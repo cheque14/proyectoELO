@@ -26,3 +26,15 @@
     color: rgb(88, 88,89);
     margin-top: 100px;
 }
+
+.Nombre {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.foto_perfil {
+    color: rgb(88, 88,89);
+    margin-top: 10px;
+    height: 300px;
+    text-align: center;
+}
