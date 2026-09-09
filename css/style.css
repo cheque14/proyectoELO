@@ -38,3 +38,9 @@
     height: 300px;
     text-align: center;
 }
+
+.Datos {
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(88, 88,89);
+}
